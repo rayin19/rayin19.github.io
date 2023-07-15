@@ -1428,7 +1428,7 @@ PORTFOLIO
         text-align: center;
     }
     .intro-text h1 span {
-        padding: 10px 21px;
+        padding: 0;
         background: #1abc9c;
         color: #fff;
         font-size: 25px;
@@ -1520,10 +1520,10 @@ PORTFOLIO
         margin-top: 20px;
     }
     .intro-text {
-        width: 200px;
+        width: 150px;
         height: auto;
         text-align: center;
-        margin: 0 auto;
+        margin: 0;
         position: relative;
         top: 30px!important;
     }

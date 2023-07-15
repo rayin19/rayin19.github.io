@@ -1,4 +1,4 @@
-# [My Portfolio](https://rayin19.github.io/) test
+# [My Portfolio](https://rayin19.github.io/)
 
 ## Sections 
   a. Profile \

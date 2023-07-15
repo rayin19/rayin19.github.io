@@ -1659,3 +1659,19 @@ PORTFOLIO
     opacity: 1;
     z-index: 1;
 }
+
+.projectImages {
+    border: 0;
+	display: inline-block;
+	position: relative;
+    display: block;
+	margin: 2.5rem 0;
+    width: 100%;
+}
+.projectCenter {
+    text-align: center;
+}
+
+.projectBorder{
+    border: 3px solid #2790d1 !important;
+}

@@ -1675,3 +1675,8 @@ PORTFOLIO
 .projectBorder{
     border: 3px solid #2790d1 !important;
 }
+
+.skillImg{
+    width: 150px;
+    padding-top: 5%;
+}

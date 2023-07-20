@@ -86,7 +86,7 @@ hr.star-primary:after {
     text-decoration: none!important;
 }
 .color-orange {
-    color: #1abc9c!important;
+    color: #513291 !important;
 }
 .color-black {
     color: #111!important;
@@ -95,13 +95,13 @@ hr.star-primary:after {
     color: #2E3639!important;
 }
 .color-yellow {
-    color: #1abc9c!important;
+    color: #513291!important;
 }
 .no-border {
     border-radius: 0!important;
 }
 .border-yellow {
-    border-color: #1abc9c!important;
+    border-color: #513291!important;
 }
 .border-white {
     border-color: #FFF!important;
@@ -129,9 +129,9 @@ hr.star-primary:after {
     border-color: #ECA928!important;
 }
 .bg-green {
-    background: #1abc9c!important;
+    background: #513291!important;
     color: #ffffff!important;
-    border-color: #1abc9c!important;
+    border-color: #513291!important;
 }
 .bg-aspalt {
     background: #2c3e50!important;
@@ -139,9 +139,9 @@ hr.star-primary:after {
     border-color: #2c3e50!important;
 }
 .bg-blue {
-    background: #1abc9c!important;
+    background: #513291!important;
     color: #ffffff!important;
-    border-color: #1abc9c!important;
+    border-color: #513291!important;
 }
 .bg-purple {
     background: #8e44ad!important;
@@ -159,7 +159,7 @@ hr.star-primary:after {
     border-color: #e3536e!important;
 }
 .text-title {
-    color: #1abc9c;
+    color: #513291;
 }
 .panel-pink {
     border-color: #e3536e;
@@ -333,7 +333,7 @@ section h2 {
 }
 .success {
     color: #747474;
-   /* background: #1abc9c;
+   /* background: #513291;
     color: #ffffff!important;
     z-index: 0;
     overflow: hidden;
@@ -390,7 +390,7 @@ section .ray-bottom {
     margin: 0;
     text-transform: uppercase;
     font-weight: 100;
-    border-left: 28px solid #1abc9c;
+    border-left: 28px solid #513291;
 
     padding: 0;
     font: 24px/40px Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -424,7 +424,7 @@ section .ray-bottom {
     padding: 10px 21px;
     /* border: 4px solid #fff; */
 
-    background: #1abc9c;
+    background: #513291;
     color: #fff;
 }
 .intro-text h4 span {
@@ -600,7 +600,7 @@ form .row:first-child .floating-label-form-group {
     font-size: 15px;
     line-height: 40px;
     background: rgba(255, 255, 255, 1);
-    color: #1abc9c!important;
+    color: #513291!important;
 }
 .btn:focus, .btn:active, .btn.active {
     outline: 0;
@@ -763,7 +763,7 @@ form .row:first-child .floating-label-form-group {
     padding: 5px 20px;
     position: relative;
     margin-top: -68px;
-    border: 4px solid #1abc9c;
+    border: 4px solid #513291;
 }
 .title-overview h2:before {
     width: 125px;
@@ -901,7 +901,7 @@ footer h3 {
 }
 .footer-above {
     padding: 70px 4%;
-    background-color: #1abc9c;
+    background-color: #513291;
     z-index: 0;
     overflow: hidden;
     position: relative;
@@ -937,7 +937,7 @@ footer .footer-col {
     border-radius: 0;
 }
 .nest-address {
-    background: #1abc9c;
+    background: #513291;
     padding: 20px;
 }
 ::-webkit-input-placeholder {
@@ -1030,7 +1030,7 @@ ABOUT ME
     color: #ffffff;
 }
 .e-campuz {
-    background: #1abc9c;
+    background: #513291;
     color: #ffffff!important;
     z-index: 0;
     overflow: hidden;
@@ -1102,7 +1102,7 @@ ABOUT ME
     height: 0;
     border-left: 40px solid transparent;
     border-right: 40px solid transparent;
-    border-top: 50px solid #1abc9c;
+    border-top: 50px solid #513291;
     position: absolute;
     top: 0;
     left: 10%;
@@ -1407,7 +1407,7 @@ PORTFOLIO
     .arrow-down {
         border-left: 23px solid transparent;
         border-right: 23px solid transparent;
-        border-top: 30px solid #1abc9c;
+        border-top: 30px solid #513291;
     }
     .about-nest h2 {
         font-weight: 100;
@@ -1429,7 +1429,7 @@ PORTFOLIO
     }
     .intro-text h1 span {
         padding: 0;
-        background: #1abc9c;
+        background: #513291;
         color: #fff;
         font-size: 25px;
         display: block;

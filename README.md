@@ -1,4 +1,4 @@
-# [My Portfolio](https://rayin19.github.io/)
+# [My Portfolio](https://shrey-suri.github.io/)
 
 ## Sections 
   a. Profile \
